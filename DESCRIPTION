@@ -1,0 +1,9 @@
+Package: str2chars
+Type: Package
+Title: Parse string to chars
+Version: 1.0
+Date: 2015-05-18
+Author: Chunchang Shao
+Maintainer: Chunchang Shao <haoranqi@yeah.net>
+Description: R (>= 3.0.0)
+License: What license is it under?

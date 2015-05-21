@@ -1,0 +1,3 @@
+useDynLib(str2chars)
+exportPattern("^[[:alpha:]]+")
+export(str2chars)
